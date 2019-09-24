@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Usuarios do GitHub</string>
+    <string name="internet">Sem conexão com a internet, por favor Conecte-se a Internet</string>
+</resources>
